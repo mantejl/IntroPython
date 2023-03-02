@@ -1,0 +1,188 @@
+[academics]
+label = "Academics"
+
+    [[academics.questions]]
+    question = "According to US News, where was USC ranked?"
+    answers = ["25"]
+    alternatives = [
+        "17",
+        "36",
+        "29",
+    ]
+    hint = "Their ranking has gone up 2 spots since last year."
+    explanation = """
+    University of Southern California is ranked #25 out of 443 National Universities.
+    Schools are ranked according to their performance across a set of widely accepted indicators of excellence.
+    """
+
+    [[academics.questions]]
+    question = "What's the most popular major at USC?"
+    answers = ["Business Admin"]
+    alternatives = [
+        "Acting",
+        "Computer Science",
+        "Journalism",
+    ]
+    hint = "Think about one of the most popular academic schools on campus."
+    explanation = """
+    An anchor institution in Los Angeles, a global center for arts, technology and international business,
+    USC's diverse curricular offerings provide extensive opportunities for
+    interdisciplinary study and collaboration with leading researchers in highly advanced learning environments. They are well
+    known for business admin.
+    """
+
+    [[academics.questions]]
+    question = "How many majors does USC offer?"
+    answers = ["124"]
+    alternatives = [
+        "42",
+        "89",
+        "136",
+    ]
+    hint = "It might be higher than you think."
+    explanation = """
+    University of Southern California offers 124 distinct undergraduate degrees,
+     concentrated into 80 majors within 24 broad fields of study.
+    """
+
+    [[academics.questions]]
+    question = "What's the latest acceptance rate of USC?"
+    answers = ["12"]
+    alternatives = [
+        "17",
+        "11",
+        "29",
+    ]
+    hint = "The rate went down by 0.5%."
+    explanation = """
+    Just under 12% of those who applied were accepted, fewer than last year by half a percentage point.
+    """
+
+    [[academics.questions]]
+    question = "How many academic schools does USC have?"
+    answers = ["22"]
+    alternatives = [
+        "17",
+        "13",
+        "24",
+    ]
+    hint = "The number has gone up over the years. "
+    explanation = """
+    Home to the College of Letters, Arts and Sciences and 22 academic schools and units,
+    the University of Southern California is a leading private research university located in Los Angeles
+    — a global center for arts, technology and international business.
+    """
+
+[sports]
+label = "Sports"
+
+    [[sports.questions]]
+    question = "How many national championships does USC men's have?"
+    answers = ["97"]
+    hint = "We have more than any other school."
+    alternatives = ["88", "12", "134"]
+    explanation = """
+    In men's sports, USC has won 97 team national championships (84 NCAA titles) – more than any other school –
+    and male athletes have won a record 303 individual NCAA titles.
+    The Trojans have won 26 championships in track and field, 21 in tennis, 12 in baseball, 9 in swimming and diving,
+    9 in water polo, 6 in volleyball, 2 in indoor track and field, and 1 in gymnastics.
+    USC's men's basketball has appeared in the NCAA tournament 15 times, and made 2 NCAA Final Four appearances.
+    """
+
+    [[sports.questions]]
+    question = "Who is the QB for the current USC football team?"
+    answers = ["Caleb Williams"]
+    alternatives = ["Joe Smith", "Sam Darnold", "Kedon Slovis"]
+    hint = "He is a current Heisman finalist."
+    explanation = """
+    Lincoln Riley's starting quarterback announcement for the 2022 USC Trojans
+    should come as no surprise to the college football world. Caleb Williams,
+    Riley's five-star transfer from Oklahoma, will serve as the team's starting signal caller this coming season.
+    """
+
+    [[sports.questions]]
+    question = "What's the last time our Men's Basketball Team made the Elite Eight?"
+    answers = ["2021"]
+    alternatives = ["1998", "2004", "2012"]
+    hint = "The year when both the Mobley brothers played for the team."
+    explanation = """
+    The Trojans have made the Final Four twice — back in 1940,
+    when eight teams made the entire tournament, and 1954, when the tournament consisted of 16 teams.
+    Since then, they've made it to the Sweet 16 four times (1961, 2001, 2007, 2021) and the
+    Elite Eight twice (2001, 2021)
+    """
+
+    [[sports.questions]]
+    question = "Who here is the USC Olympian?"
+    answers = ["Allyson Felix"]
+    alternatives = ["Brian Johnson", "Caroline Reaver", "Usain Bolt"]
+    hint = "This person ran track."
+    explanation = """
+    Celebrated track & field Olympian Allyson Felix will give the keynote speech for the class of
+    2022 at this year's 139th commencement ceremony.
+    Felix graduated from USC in 2008 with a bachelor's degree from the Rossier School of Education
+    """
+
+    [[sports.questions]]
+    question = "Who was the first Trojan to be picked number one in the NFL draft?"
+    answers = ["Ron Yary"]
+    alternatives = ["Matt Leinart", "Ronnie Lott", "Tony Boselli"]
+    hint = "This player played for USC in the 1960s."
+    explanation = """
+    Ron Yary was selected number one by the Minnesota Vikings in the 1968 draft.
+    """
+
+[history]
+label = "History"
+    [[history.questions]]
+    question = "When did USC formally open?"
+    answers = ["1880"]
+    alternatives = ["1903", "1853", "1938"]
+    hint = "One of the oldest colleges in CA."
+    explanation = """
+    USC formally opened in 1880, with 53 students and 10 faculty.
+    A college of liberal arts, a university band and a debate team are established.
+    """
+
+    [[history.questions]]
+    question = "What's one of the traditions of USC?"
+    answers = ["Peace Sign"]
+    alternatives = ["Handshake", "Four Fingers Up", "Pinky Fingers Down"]
+    hint = "Think about what students say when they say 'Fight On!' "
+    explanation = """
+    The Two Fingers (Peace Sign) up came from whenever the Trojans would conquer an opponent,
+    they would cut the first two fingers off of their
+    enemies right hand to prevent them from returning to the battlefield
+    because they could no longer hold a sword.
+    """
+
+    [[history.questions]]
+    question = "Why is USC called the Trojans?"
+    answers = ["A news writer gave the name"]
+    alternatives = ["Carol Folt liked the name", "The founder liked it", "The American President proposed it"]
+    hint = "The name came after the college was founded."
+    explanation = """
+    The “Trojan” tradition originated in 1912 with Los Angeles Times sportswriter Owen Bird,
+    who likened the fighting spirit of USC athletes to that of the ancient Trojans.
+    """
+
+    [[history.questions]]
+    question = "What's USC's Latin motto"
+    answers = ["Palmam Qui Meruit Ferat"]
+    alternatives = ["Fiat lux", "Die Luft Der Freiheit Weht", "Leges Sine Moribus Vanae"]
+    hint = "The expression reflects symbols of triumph and victory."
+    explanation = """
+    USC's motto, Palmam Qui Meruit Ferat, can be loosely translated from the Latin as “let whoever earns the palm bear it.”
+    """
+
+    [[history.questions]]
+    question = "What is USC mascot called?"
+    answers = ["Traveler"]
+    alternatives = ["Tommy", "Troy", "Fighter"]
+    hint = "Our mascot is a horse."
+    explanation = """
+    Traveler, the noble white horse that appears at all USC home football games
+    with a Trojan warrior astride, is one of the most famous college mascots.
+    Traveler first made an appearance at USC football games in 1961 in the home opener versus Georgia Tech.
+    """
+
